@@ -1,0 +1,7 @@
+{
+  "name": "Nexus AI Agent Store",
+  "description": "A marketplace of specialized AI agents powered by Google Gemini, featuring real-time voice interaction and deep reasoning capabilities.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
